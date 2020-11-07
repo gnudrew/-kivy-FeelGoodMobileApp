@@ -2,6 +2,8 @@
 
 A mobile app with login screen, sign up screen, and main screen. Provides you with famous quotes to match the feeling you input.
 
+Packaged using *buildozer* in *VirtualBox* Ubuntu environment.
+
 ### Packages used:
 > *kivy*, *json*, *glob*, *random*, *pathlib*, *datetime*
 
