@@ -1,6 +1,6 @@
 # -kivy-FeelGoodMobileApp
 
-A mobile app with login screen, sign up screen, and main screen. Asks how you are feeling, then provides famous quotes based on the feeling.
+A mobile app with login screen, sign up screen, and main screen. Provides you with famous quotes to match the feeling you input.
 
 ### Packages used:
 > *kivy*
