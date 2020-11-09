@@ -1,6 +1,6 @@
 # -kivy-FeelGoodMobileApp
 
-A mobile app with login screen, sign up screen, and main screen. Provides you with famous quotes to match the feeling you input.
+Multiscreen mobile app handling user credentials and mood-quote matching
 
 Packaged using *buildozer* in *VirtualBox* Ubuntu environment.
 
