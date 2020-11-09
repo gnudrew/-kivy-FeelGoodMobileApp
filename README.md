@@ -1,7 +1,6 @@
 # -kivy-FeelGoodMobileApp
 
-Multiscreen mobile app handling user credentials and mood-quote matching
-
+Multiscreen mobile app handling user credentials and mood-quote matching.
 Packaged using *buildozer* in *VirtualBox* Ubuntu environment.
 
 ### Packages used:
