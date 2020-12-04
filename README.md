@@ -1,6 +1,6 @@
 # -kivy-MoodBoosterMobileApp
 
-Multiscreen mobile app handling user credentials and mood-quote matching.
+A multiscreen Android app that handles user credentials and retrieves quotes relevant to a mood of the user's choosing
 Packaged using *buildozer* in *VirtualBox* Ubuntu environment.
 
 ### Packages used:
