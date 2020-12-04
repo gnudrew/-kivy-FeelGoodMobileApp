@@ -10,5 +10,5 @@ Packaged using *buildozer* in *VirtualBox* Ubuntu environment.
 * Android install file: `/bin/myapp-0.1-armeabi-v7a-debug.apk`
 * Or, CLI: `py main.py`
 * New users, press Sign Up to register your account name and password
-* Press Login
+* Enter credentials and press Login
 * Enter an emotion like 'happy' or 'sad' to get relevant quotes
